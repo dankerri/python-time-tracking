@@ -77,6 +77,6 @@ time_tracking/
 柱状图
 ![饼图](./src/pie.png)
 饼图
+
 ![文本输出](./src/text.png)
-文本输出
 
